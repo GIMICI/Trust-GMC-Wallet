@@ -1,4 +1,4 @@
-# WALLET PLUS
+# TRUST GMC  WALLET 
 
 # JSONStream
 
